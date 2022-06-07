@@ -1,4 +1,4 @@
-👋 Hi, I’m Huỳnh Phúc Tường, you can call me WallHuynh, a newbie in web development. Currently, I can work with HTML, CSS(SASS), javascript, react, firebase, nodejs, MySQL
+👋 Hi, I’m Huỳnh Phúc Tường, you can call me WallHuynh, a newbie in web developer. Currently, I can work with HTML, CSS(SASS), javascript, react, firebase, nodejs, MySQL
 
 <!---
 WallHuynh/WallHuynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
